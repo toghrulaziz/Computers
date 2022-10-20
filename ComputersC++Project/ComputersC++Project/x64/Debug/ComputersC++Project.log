@@ -1,0 +1,3 @@
+﻿  Computers.cpp
+C:\Users\User\Desktop\Computers\ComputersC++Project\ComputersC++Project\Computers.cpp(380,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ComputersC++Project.vcxproj -> C:\Users\User\Desktop\Computers\ComputersC++Project\x64\Debug\ComputersC++Project.exe
